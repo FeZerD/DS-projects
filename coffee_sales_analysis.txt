@@ -1,0 +1,38 @@
+Coffee Sales Analysis Report
+==================================================
+
+Basic Statistics:
+--------------------------------------------------
+Total Transactions: 2,623
+Total Revenue: $83,646.10
+Average Transaction Value: $31.89
+Median Transaction Value: $32.82
+
+Payment Method Analysis:
+--------------------------------------------------
+           Total Transactions  Total Revenue  Average Transaction
+cash_type                                                        
+card                     2534        80460.1                31.75
+cash                       89         3186.0                35.80
+
+Top 5 Selling Coffees:
+--------------------------------------------------
+                     Total Orders  Total Revenue  Average Price
+coffee_name                                                    
+Americano with Milk           621       19004.54          30.60
+Latte                         618       22001.66          35.60
+Cappuccino                    368       13278.06          36.08
+Americano                     327        8546.30          26.14
+Cortado                       247        6366.66          25.78
+
+Weekly Analysis:
+--------------------------------------------------
+           Total Orders  Total Revenue  Average Order Value
+weekday                                                    
+Friday              365       11650.42                31.92
+Monday              383       12265.42                32.02
+Saturday            374       11825.14                31.62
+Sunday              359       11499.46                32.03
+Thursday            374       11947.34                31.94
+Tuesday             432       13861.90                32.09
+Wednesday           336       10596.42                31.54
